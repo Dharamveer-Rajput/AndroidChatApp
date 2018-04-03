@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Collaboration</string>
+    <string name="pick_image_intent_text">Image Chooser</string>
+</resources>
